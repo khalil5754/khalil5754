@@ -12,5 +12,5 @@ analyses.
 "Mostly stuff for my paper".
 
 So I woke up today planning to find a way showcase what it was I have done so far this year. If for no other reason than my own sanity.
-Maybe this can serve as something like a post-diary. I may not have had the most jam-packed summer, but it was certainly dense with content.
+
 
